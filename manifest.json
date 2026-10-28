@@ -1,0 +1,21 @@
+{
+  "name": "Sudan Airways Load",
+  "short_name": "SD Load",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#062a66",
+  "theme_color": "#062a66",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

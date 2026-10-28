@@ -1,0 +1,8 @@
+{
+  "enabled": true,
+  "offMessage": "This app is switched off.",
+  "message": "",
+  "minVersion": 0,
+  "maxOfflineDays": 7,
+  "blocked": []
+}
